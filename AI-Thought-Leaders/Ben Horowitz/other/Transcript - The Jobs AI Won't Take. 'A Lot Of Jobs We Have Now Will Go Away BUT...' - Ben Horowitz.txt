@@ -1,0 +1,1601 @@
+https://www.youtube.com/watch?v=PlYO7y8eJ2s
+
+Transcript - The Jobs AI Won’t Take. "A Lot Of Jobs We Have Now Will Go Away BUT..." | Ben Horowitz
+
+
+
+Jobs Will Evolve
+0:00
+revolutions don't always come with banners and protests sometimes the only shots fired are Snippets of code this is
+0:07
+one of those moments AI is the most disruptive force in history and it's no
+0:13
+longer a distant possibility it is here right now and it's already changing the foundations of power and the economy few
+0:21
+people have been as influential in shaping the direction of AI than Mega investor Ben Horowitz a Pioneer in
+0:28
+Silicon Valley he spent decades at the center of every major technological disruption including standing up to the
+0:34
+Biden administration's attempts to limit and control AI in today's episode he lays out where AI is really taking us
+0:41
+the forces that will Define the next decade and how to position yourself before it's too
+0:48
+late you are uh in an area making Investments thinking about some of the things that I think are the most
+0:54
+consequential in the world today as it relates to Innovation but along those lines you and Mark dreon are all in on
+1:01
+AI but how do we make sure that it benefits everyone instead of making humans obsolete to begin with we have to
+1:08
+just realize you know what AI is because I think that because we called it artificial intelligence you know our our
+1:15
+whole industry of technology has a naming problem and that we started you know by calling computer science
+1:22
+computer science which everybody thought oh that's just like computers it's like
+1:28
+the science of a machine as opposed to information Theory and what it really was and then in web 3 world which you're
+1:36
+familiar with we called it cryptocurrency which to normal people means secret money but that's not that's
+1:42
+a good point and then I think with artificial intelligence um I think that's also like a bad name in a lot of
+1:50
+ways and that you know look the people who work on in the field call what they're building models and I think
+1:57
+that's a a really accurate description in the sense that um what we're doing is
+2:02
+we're kind of modeling something we've always done which is we're trying to model the world um in a way that enables
+2:10
+us to predict it and then you know we've built much more sophisticated models with this technology uh than we could
+2:17
+you know in the old days we had E equals MC s which was like amazing but a relatively simple model uh now we have
+2:26
+models with what like 600 billion variables in this kind of thing uh and
+2:31
+we can model like what's the next word that I should say uh and that kind of thing so um so that's amazing and
+2:39
+Powerful but I would say like we need to distinguish the fact that um it's a
+2:44
+model uh that is directed by us to tell us things about the world and and do
+2:50
+things on our behalf but it's not a uh it's not life it doesn't have a free
+2:56
+will and these kinds of things so I think default um it you know we are the
+3:01
+master and it is uh it is the servant um as opposed to vice versa the question
+3:08
+though that you're getting at which is okay how do we not get obsoleted like
+3:13
+why do we need us if we've got these things that can do all the jobs that we currently do um and I think you know
+3:20
+we've gone through that in the past um and it's been interesting right so in I
+3:26
+think 1750 over 90% of the jobs in the country were agricultural um and you
+3:33
+know there was a huge fight in a group called The leites that fought the plow and you know some of these um new
+3:40
+fangled inventions uh that eventually by the way eliminated 97% of the jobs uh
+3:47
+that were there um but I think that most people would say gee the life I have now is better than
+3:55
+the life that I would have had on the farm um where all I did was Farm
+4:00
+and nothing else in life uh but you know like and if you want to farm still you
+4:06
+can that is an option uh but most people don't take that option so the jobs that
+4:12
+we have now will you know a lot of them will go away and uh we'll have but we'll
+4:18
+likely have new jobs I mean humans are pretty good at figuring out new things to do and new uh things to pursue and so
+4:26
+forth um and you know like including like going to Mars and that kind of
+4:31
+thing uh which obviously isn't a thing today but could very well be a thing tomorrow um so I think that you know we
+4:39
+have to stay creative and and uh keep dreaming about like a better future and how to kind of improve things for people
+4:46
+but I think that you know particularly for kind of the people in the world that are on The Struggle Bus
+4:53
+who are living on a dollar a day or um you know kind of subject to all kinds of diseases and so forth life is going to
+4:59
+get like radically better for them when I look at the plow example and the leites fighting against it I think you'll see the same thing with AI you're
+5:06
+going to get people that just completely reject it refuse to engage in anything for sure uh but when I look at AI what I
+5:15
+worry about is that there will be no refuge to go to meaning if you realize oh I can't plow as well as uh a plow or
+5:23
+a tractor or now a combine there's still a lot of other things that technology can't do better than me do you think
+5:29
+there's an upper bound to artificial intelligence bad name or not or do you think that it keeps going and it it
+5:36
+literally becomes better than us once it's embodied in robotics at everything
+5:42
+we are kind of limited by the new ideas that we have um and and artificial intelligence is really by the way
+5:48
+artificial human intelligence meaning um right humans looked at the world humans
+5:55
+figured out what it was you know described it came up with these concept like trees and you know uh air and and
+6:03
+all this stuff that it's not necessarily real just how we just decided to
+6:09
+structure the world and AI has learned our structure like they've learned language human language which is a
+6:16
+version of the universe that is not an accurate version of the universe it's just our version of the universe so it's
+6:21
+the you're going to have to go deep on that I know my audience is going to be like air seems pretty real when you're
+6:26
+underwater what do you mean that trees in air are not NE neily real it's look it's it's a construction that we made
+6:33
+you know we decided it it is literally the way humans have interpreted the
+6:38
+world in order for humans to navigate it um and you know as is language right
+6:45
+language isn't um the universe as it is like if if uh completely objective if
+6:51
+you had an objective look at you know the atoms and so forth and how they were arranged and and and whatnot um you
+6:59
+probably you know those descriptions are lacking in a lot of ways they're not completely accurate um they don't they
+7:06
+you know they certainly don't kind of predict everything about how the world works and so what machines have learned
+7:13
+or like what artificial intelligence is is an understanding of our knowledge um
+7:19
+of of the human knowledge so it's taken in our knowledge of the universe and then it is um kind of can refine that
+7:27
+and it can work on that and it can derive things from our knowledge our Axiom set but it isn't actually
+7:35
+observing the world at this point and figuring out new stuff so you know at the very least you know humans still
+7:42
+have to um discover new principles of the universe or or kind of interpret it
+7:48
+in a different way or the machines have to somehow observe directly the world which they're not yet doing um and so
+AI Is Reinventing Human Knowledge
+7:57
+that you know that's a pretty big role I would say but then you know in in addition you know we direct the world I
+8:03
+think like Star Trek is actually a pretty good metaphor for that like the Star Trek computer was pretty badass um
+8:09
+but you know the people in Star Trek were still like flying around the universe discovering new things about it
+8:15
+um you there were still much to do and I think that it's always a little uh kind of difficult to
+8:23
+figure out what the new jobs that get created are um and we've had intelligence for a while right like
+8:29
+we've had machines that could do math way better than us um
+8:34
+and you know I mean I I can remember um when I was in junior high
+8:39
+school uh or Junior High put on a play about like how bad it was that there were calculators because nobody would
+8:45
+know how to do arithmetic and then all the calculators would break and then we'd be stuck we'd be trying to like fly
+8:51
+around the universe and Rockets and then but we wouldn't be able to do math and the calculators would be broken we'd be
+8:56
+screwed um so so there is always that fear uh and you know we've had computers that
+9:02
+can play games better than us we currently have computers that can drive better than us and so forth um so we
+9:08
+have a lot of intelligence out there uh but it hasn't um you know created like this super
+9:15
+distopia you know in any degree it's actually made things better you know every everywhere it's appeared so I
+9:21
+would expect that to continue what do you think though is the limiting function so when I look at AI
+9:28
+uh I always say unless we run into an upper bound where the computation just can't allow the intelligence to keep
+9:35
+progressing um it seems like it will become not only generalized human intelligence and thus they be able to do
+9:41
+everything that we can do uh it will become embodied as Robotics and if I ran
+9:46
+the math on this once Einstein is roughly 2.4 times smarter than someone who is definitionally a [ __ ] and the
+9:54
+Gap just between those two is so dramatic the AR won't even um draft
+10:01
+somebody that is a [ __ ] at you know whatever 81 IQ or whatever it is uh because it's they create more problems
+10:08
+than they solve even just by being uh you know bullet fodder so do you think
+10:14
+there is something that's going to cause that upper bound or you have a belief
+10:20
+about the nature of intelligence that will keep AI subservient to us the the
+10:27
+smartest people don't rule the world world you know Einstein wasn't in charge um
+10:33
+and you know many of us are are like rolled by are cats um and so like power
+10:41
+and intelligence don't don't necessarily go together particularly when the intelligence has no free will or has no
+10:47
+desirea free will it doesn't have will um you know it it is kind of a model that's Computing things um I think also
+10:55
+you know the whole general intelligence thing is interesting in that you know
+11:01
+wh's got a super smart AI that can drive a car but that AI that drives a card
+11:08
+doesn't know English um and you know isn't you know particularly good at
+11:14
+other tasks you know currently and and then the chat GPT can't drive a car uh
+11:21
+and so that's you know how much things generalize particularly
+11:29
+and if you look at why is that um a lot of it actually has to do with the long taale of human behavior where um humans
+11:38
+uh you know the distribution of human behavior is um it's fractal it's mantal
+11:44
+bradian or whatever um it's not evenly distributed at all uh and
+11:51
+so you know an AI that kind of captures all that turns out to be
+11:59
+you know we're not so much on the track we're we're more on the track for kind of really great reasoning over kind of a
+12:07
+set of axioms that we came up with um you know in say math or physics uh but
+AI Still Lacks Nuance
+12:13
+not so much um you know kind of General human intelligence which is uh you know
+12:21
+being able to navigate other humans and the world in a way that uh is productive
+12:28
+for us is kind of a it's a little bit of a different dimension of things you know yeah you can compare the math
+12:36
+capabilities or the go playing capabilities or the driving capabilities or the IQ test capabilities of a
+12:44
+computer um but that that's not really a human I I think a human is kind of
+12:50
+different in a fairly fundamental way um so what we end up doing I think it's
+12:56
+going to be different than what we're doing today just like what we're doing today is very different than what we did 100 years
+13:01
+ago but you know the the not having a need for us I think that you know these
+13:08
+these AIS are tools for us um to basically navigate the world and help us
+13:14
+solve problems and and do things um like you know everything from prevent
+13:20
+pandemics to deal with uh climate change to to that sort of thing um to not kill
+13:26
+each other driving cars uh which we do a lot of um you know hopefully it doesn't
+13:32
+you know uh create more Wars hopefully it creates less Wars um but we'll see
+13:38
+what I know about the human brain maybe tricking me into painting a vision of
+13:43
+the future that isn't going to come true let me put words in your mouth and you tell me if they fit appropriately uh
+13:49
+what I hear you saying is something akin to the way that we're approaching artificial intelligence right now let's
+13:55
+round it to large language models uh that is going to hit an upper bound
+14:01
+where it's not able to uh have insights that a human will already have that they
+14:06
+are trapped inside of the box that we have created what you're calling the axioms by which we navigate the world
+14:12
+they get trapped inside that box and thusly will never be able to look at the world and go um I'm not going to predict
+14:18
+the next frame I'm going to render the next frame based on what I know about physics and so water reacts this way in
+14:25
+a Earthbound gravity system and so it's going to Splash like this and it understand liquid Dynamics etc etc uh so
+14:33
+is that accurate are you saying that it is trapped inside of our box and we'll never have it hasn't demonstrated that
+14:38
+capability yet so like you you know it hasn't like walked up to a rock and said this is a rock right we labeled it a
+14:44
+rock because that's our structure but you know a rock isn't probably
+14:49
+the a more intelligent being would have called it something else or or maybe the rock is irrelevant um you know to how
+14:57
+you actually can navigate the the world safely uh and kind of figuring those
+15:03
+things out or kind of adopting to them is just not something that um you know it's trained on our on our
+15:11
+rendition of the universe uh in our kind of literally like the way we have
+15:18
+described it using language that we invented uh and so it is
+15:25
+um it is constrained a bit to in nature currently
+15:32
+um you know that doesn't mean it's not like a massively useful tool and can do things and and by the way can derive new
+15:39
+rules from the old rules that we've given it um for sure uh but you know
+15:48
+will like I think it's a bit of a jump to go you know it's going to replace
+15:53
+entirely when the whole Discovery process is something that we do that it doesn't do
+16:01
+yet okay the way that the human mind is architected is you have competing regions of the brain like if you cut the
+16:08
+Corpus colossum the part that connects the left and the right hemisphere you can get two distinct personalities one
+16:14
+that is atheist for instance and one that uh believes deeply in God and they'll argue back and forth I mean this
+16:20
+is in the same human brain so that tells me that what you have is basically uh
+16:26
+regions of the brain that get good at a thing and then they end up coming together to collaborate and that is sort
+16:31
+of human intelligence and I've heard you talk about there's something like 200 computers inside of a single car uh so
+16:38
+if we already know that you can daisy chain all of these like it's it's a very deep knowledge about one thing but as
+16:44
+you daisy chain them the intelligence gets what I'll call more generalized you
+16:50
+don't see that as a flywheel that that is going to keep going you know what we can compute will
+16:57
+get better and better and better uh but having said that you know that
+17:03
+doesn't say that um like humans one you know humans built the
+17:12
+machines plug them in give them the batteries all these kinds of things um
+17:19
+and uh you know and they've been created to fulfill our purposes so you know what
+17:26
+it means to be a human will probably will change like it has been changing um and kind of how humans live their life
+17:33
+will change but humans still find things to do I mean like it's kind of like you
+17:38
+know like a cheetah has been able to run faster than a human forever but we never watch cheetah's race we only watch
+17:43
+humans race each other um you know computers have played chess better than humans for a long time but nobody
+17:50
+watches computers play chess anymore they watch humans play humans and chess is more popular than it's ever been and
+17:56
+so I think we have like a keen interest in each other and uh and how that's going to work and
+18:01
+these will be kind of tools to enhance that whole experience for us but I think
+18:06
+it's you know like a world of just machines um
+18:14
+seems like that seems like really unlikely so you've got people like um
+18:19
+Elon Musk Sam Alman who have both expressed deep concerns about how um AI
+18:28
+May in fact make us obsolete Elon has likened he's certainly become fatalistic
+18:34
+uh but he gave a rant that I absolutely love that is AI is a demon summoning
+18:39
+Circle and you're calling forward this demon that you were just convinced you're going to be able to control and
+18:44
+he certainly is not so sure and at one point and again I'm fully aware that he's on his fatalist Arc and he's just
+18:49
+moving forward and he's building as fast as he can like it's interesting that both of them despite saying these things
+18:57
+are building AI as fast as like like they're literally in a race with each other to see who can build it faster who
+19:03
+can the demon faster that they're warning about what do you take away from that is
+19:09
+it just regulatory capture on both of their parts is it um is Elon being sinere not that I need you to mind read
+19:16
+him but like what do you take away in the fact that they've both warned against it and they're both deploying it
+19:23
+as fast as they can yeah yeah it seems fairly contradictory um look look I I think
+19:29
+there's like I I I won't question either of their sincerity at some degree but I do think there are
+19:37
+um many reasons to warn about it but like I I also think that you know any
+19:43
+kind of new super powerful technology I you know in a way they're right to kind of warn about like
+19:50
+okay this thing if we um you know if we don't think about some
+19:57
+of the implications of it could get dangerous and I think that's a good thing like every technology we've ever had from fire to um you know from fire
+20:06
+to automobiles to nuclear to AI has got the internet um has got downsides to
+20:14
+it they all have downsides uh and the more powerful the more kind of you know kind of intriguing the
+20:21
+downside and you know maybe like you know without the internet we probably would have never gotten to AI um and uh
+20:28
+so maybe that was the downside of the internet that it led to AI or something like that you could
+20:33
+argue but I think generally we would take every technology we've invented and
+20:38
+keep it because you know uh net net they've been positive uh for Humanity and for the world and and that's
+20:45
+generally and that's why I think they're building it so fast because I think they know that all right so anybody with a
+20:52
+17-year-old right now is thinking oh my how where do I point my kid what do I tell them to go study that's future
+20:58
+proof what can we learn about the way you guys are investing at andrees and Horowitz uh that would give somebody an
+21:06
+inclination of what you think a 17-year-old should be focused on now yeah I you know it's really interesting
+21:13
+I think one of the things um what what we're saying in the kind of smartest young people that come out is they spend
+Limitation Of Massive Investments
+21:21
+a lot of time with AI learning everything they possibly can so I think
+21:26
+you want to get very good at like hik curiosity and um and then learning you
+21:32
+know you have available to you all of human knowledge in something that will talk to you uh and that's you know
+21:40
+that's an incredible opportunity and I think that anything you want to do in the world to make the world better um
+21:46
+you now have the tools as an individual to do that in a way that you know if you
+21:51
+look at kind of what Thomas Edison had to do in creating GE and like what that
+21:56
+took and and so forth you know it was a way higher bar to have an impact um
+22:02
+whereas now I think you know you can very quickly um
+22:10
+you know build something or do something that you know just pick a problem it's not like you know sometimes in this AI
+22:16
+conversation the thing that we ignore is like what are the problems that we have in the world well they well we still
+22:23
+have cancer and diabetes and ccle cell and and every disease and we still have
+22:30
+the threat of pandemics and we still have climate change and we still have you know lots of people who are starving
+22:36
+to death and we still have malaria and and so like pick a problem you want to solve uh and now um you know you have a
+22:46
+huge helping hand in doing that that nobody in the history of the planet has ever had before us so I think there's
+22:54
+really great opportunities along those lines um so that that would be my you
+23:00
+know my best advice I think is to to to get really good with that and uh and
+23:08
+look I think a lot of the things that we've learned or that have been valuable skills traditionally are going to change
+23:14
+so you really you know again want to be able to learn how to do anything uh and
+23:20
+and I think that's probably uh going to be key we'll get back to the show in a
+23:25
+moment but first let's talk about protecting your wealth in these very uncertain times and the truth is Market
+23:31
+volatility can wipe out your retirement account overnight it's not speculation it's happened countless times throughout
+AI Will Offer Unprecedented Opportunities.
+23:37
+history this is why so many Financial experts recommend diversifying with a
+23:42
+scarce sound physical asset created by exploding Stars gold it has withstood
+23:48
+the test of time through every economic collapse in history for those looking to add gold and silver to their portfolio
+23:54
+American Alternative assets offers a reliable solution they provide concierge
+23:59
+White Glove customer service for impact Theory viewers now no one can guarantee
+24:04
+anything but do not wait until after the market crashes to protect what you've built go to tomg getold.com or call 1888
+24:14
+615 8047 today to get started again that's tomg getold.com or call 1888 615
+24:26
+8047 this is a paid advertisement and now let's get back to the show when I look at the things you were
+24:34
+just talking about that feels right for people that have the the inclination that have the cognitive horsepower to go
+24:41
+and say okay I'm going to leverage AI to extend my capabilities to tackle the biggest problems in the world certainly
+24:47
+right now in this moment that that is the thrilling reality that people should focus on but then I contrast that with
+24:54
+the deaths of Despair uh a among largely young men
+25:01
+um we have this problem in call it Middle America where manufacturing jobs
+25:07
+have gone away so for that normal just sort of everyday person I want to have a trade I want to go out into the world
+25:13
+and get something done is AI going to be useful to them or are they going to get
+25:18
+replaced by robotics the truth of it is is there's only one robot supply chain
+25:23
+in the world and that's in China and you know so like we all need a robot
+25:29
+supply chain um we need to manufacture that so I think there's going to be like a real uh manufacturing opportunity um
+25:38
+coming up to and it'll be a different kind of manufacturing certainly more will be automated and so forth but there
+25:44
+will be a lot of things to learn in that field that I think will be uh you know
+25:50
+super interesting and um and you know likely very very good jobs so I
+25:57
+ironically would say like going into manufacturing now as a as a young man and trying to you know kind of figure
+26:04
+out what that is and get engaged in it will probably lead to you know quite a
+26:10
+good career you know maybe in creating uh factories have become like insanely
+26:16
+valuable and and and kind of N and strategic to the national interests as well that makes sense so again at the
+26:23
+level of the guy smart enough to build the facility yes and I recently saw a video of the grocery store of the future
+26:29
+where it is a huge grid inside of a giant facility and there's just uh like
+26:35
+these Bots that look kind of like small shopping carts and they're just grid patterning across all the items
+26:40
+snatching up whatever you order uh so you order online these things grab all that stuff and then they send it off to
+26:46
+you uh so for the person that's Savvy enough to build that facility uh yes
+26:51
+tremendous um but what I think I hear you saying and correct me if I'm wrong
+26:56
+is that okay there are two opport OPP unities here the opportunity one is if you're the kind of person that can leverage AI to build that facility
+27:03
+massive opportunity if you're the kind of person that would traditionally work at that factory something new is coming
+27:09
+we know that because looking back at history all these Technologies unleash things we can't yet see and so I have faith in the we can't yet see it but it
+27:16
+is coming yeah now for sure like I mean you know what like the biggest in demand job
+27:22
+in the world is right now data labelers and look data label wasn't a
+27:28
+job not long ago but if you talk I heard of this what is data
+27:34
+labeling yeah so it's what Alexa that's what scale AI does you know they they
+27:39
+pay armies and armies and armies of people to label data um so say hey this
+27:44
+is a plant or this is you know a fig or whatever it is for the AI to then
+27:50
+understand it and then you know now with the um you know with the with the kind of
+27:56
+reinforcement learning coming back into play um you know labeling you know that
+28:02
+that kind of supervised learning is still like very very very important uh and I think that
+28:09
+um you know right now like he's got unlimited hiring demand which is you
+28:15
+know ironic for scale AI to have unlimited need for humans and I think
+28:22
+you know in manufacturing there are going to be jobs like that and there will be the kind of physical uh
+28:28
+well when you go and you go into these robot like the software companies that are doing robotics um they have
+28:37
+people managing the robots right like they're training the robots humans train robots uh to do all kinds of things and
+28:45
+it turns out that like folding clothes doesn't necessarily generalize
+28:51
+to making eggs um they they're like super different for
+28:57
+robots uh and so you need you know these robots trained in all these kinds of
+29:02
+fields and so forth so I think there's you know there's a whole new class of jobs that are a little bit hard to
+29:09
+anticipate um you know in advance uh but I think at
+29:14
+least for the next 10 years I think the the number of new jobs related to making
+29:19
+these machines smarter is going to increase a lot uh and then after that
+29:25
+you know like I think there will be there just tend to be like throughout
+29:33
+history so many needs for new things that we never anticipated like well I mean you know one of my favorite
+29:39
+examples is okay computers desk computers are going to kill the typ
+29:45
+setting business and they did everybody knew that like that was coming nobody
+29:51
+nobody said oh and then there's going to be five million graphic design jobs that come out of the PC like
+29:58
+nobody not not a person predicted that so it's really easy to figure out which jobs are going to go away it's much more
+30:05
+difficult to kind of figure out which jobs are going to come but like if you look at the history of automation um
+New Jobs AI Creates
+30:12
+which is kind of automated away everything we did a hundred years ago there's less unemployment now than
+30:19
+there was then and so you go okay and then you know like some of
+30:25
+the employment will be much more I think enjoyable than the old employment as
+30:31
+well as it has been you know over time and you we always talk about manufacturing jobs going away but the
+30:36
+manufacturing jobs that have gone away have been the most mind-numbing so I think you know things evolve in very
+30:42
+very unpredictable ways um and you know like I I think the hope is that you know
+30:48
+the world just gets much better but I'm not I'm not so worried about kind of
+30:56
+anticipating all the horror that's going to come in I mean I think the main reason we're making these things is you
+31:01
+know the ways that they're making life better uh and you just like we finally
+31:06
+figured out a way for everybody like we already have in our hands um everybody
+31:13
+can get a great education like that whole inequality of access to education is
+31:21
+like literally gone right now um which is pretty amazing I mean it's certainly
+31:27
+huge yeah nothing that I ever thought I'd see so hopefully um things go well the great
+31:34
+irony it's so crazy I don't think anybody anybody saw that coming it was always going to be it's going to go for
+31:40
+the drivers it's going to go for all those hard difficult repetitive tasks yeah it's been very fascinating to see
+31:46
+what actually is in danger like super creative jobs very much in danger um but
+31:52
+yeah as you get down I mean look I think I believe way more strongly than you do that robots are just going to get better
+31:58
+and better and better and better uh but that that could be that I'm not as close to the problem as you are uh speaking of
+32:05
+which how the insights that you've had into AI how are they informing the
+32:10
+Investments that you guys make the theory is there's this one like super intelligent big brain that's going to do
+32:16
+everything the reality on the ground is even with the state-of-the-art models they're all kind of good at slightly
+32:22
+different things right like you know anthropic is like really good at code um and grock is really good at like
+32:29
+real-time data because they've got the Twitter stuff and then you know open AI has gotten like very very good at
+32:35
+reasoning um so with all all of them were doing AGI but then they're all good
+32:42
+at different stuff which is you know from an investing standpoint it's very good to know
+32:47
+that be because if something like that's not win or take all that's very that
+32:52
+becomes like super interesting it also is interesting uh for what it means
+32:57
+means at the application layer because if the infrastructure products aren't
+33:03
+win or take all and then the other thing about the infrastructure products that's interesting is that they're not
+33:09
+particularly sticky um in the way that kind of Microsoft Windows was very
+33:15
+sticky right it was sticky you build an application on Windows it doesn't rent on other stuff you've got to do a lot of
+33:21
+work to move it to something else so you get this network effect with Developers
+33:28
+then you go okay well how how does that work with state-of-the-art models well people build applications on these
+33:33
+things but guess what like to move your application to deep seek you didn't have to change the line of code they just
+33:40
+literally took the open AI python API and like it runs on deep seek now
+33:45
+Tada uh so you know that that kind of thing really impacts you know how you
+33:51
+think about investing and like what is the value of having a leading application and then you know where's
+33:57
+the mode going to come from and of course AI is also getting like the one thing it is getting amazingly good at is
+34:03
+writing code and so then you know how much of a lead do you have in the code
+34:10
+itself versus um you know kind of the other traditional things you know when I
+34:15
+started in the industry the salespeople were in charge um they were kind of like the big there
+34:21
+there's a great uh TV show called Halt and Catch Fire And if you watch was so
+34:27
+good like the thing that's really stunning if you're you know kind of coming from the uh 2010s 2020s world is
+34:36
+why are the salespeople so powerful but they were the most powerful in those days uh and it was because you
+34:43
+know distribution was the most difficult thing um and I you know I think
+34:49
+distribution is going to get in very very important again uh because
+34:55
+maintaining a technological lead is it's a lot harder you know when the machine is writing the code and writing it very
+35:03
+fast although it's not you know it's not all the way where it can you know build like super complex systems but there's
+35:09
+you know if a bunch of things out now you know rep blits got a great product
+35:14
+for it there's company called lovable that's got one out of Sweden um that just builds you an app like if you need
+35:19
+an app for something and just say bu me this app and there it is yeah another
+35:25
+thing in cursor that you can select yeah what model you want to use for whatever
+35:30
+thing that you're about to generate so the ability to go oh I want 10 of these things I'm gonna use this one for this
+35:35
+kind of code this one for that kind of code it's really fascinating um now the Biden Administration was super hostile
+35:42
+towards Tech uh when you look at what's going on now with the changes in
+35:49
+regulatory um what do you think about the race between us and China were we
+35:55
+headed down a dark path where if that administration had stayed with that like we're going to have one or two companies
+36:01
+we're going to control them that's going to be that is it possible we could have lost that race is that race a figment of
+36:07
+my imagination is that real I think that there's kind of multiple layers to the
+36:14
+uh AI race with China and then you know the Biden Administration
+AI Models Excel In Different Areas
+36:20
+was kind of hosle in in many ways but all for kind of a central reason I think
+36:26
+um so you know in AI in particular uh you know when we met um and I I should be
+36:35
+very specific so it wasn't we did meet with Jake Sullivan but he was very good about it we met with Gina Rondo she was
+36:40
+very good about it um but we met with the the kind of white house uh and their
+36:48
+you know their position was uh super kind of I would say ill informed um so
+36:54
+they basically were they they watch in with this idea that like we've got a
+37:00
+three-year lead on China and um we have to protect that lead and there's
+37:08
+no um and therefore we need to shut down open source and that doesn't matter to
+37:15
+you guys and startups because startups can't participate in AI anyway um
+37:20
+because they don't have enough money uh and the only companies that are going to do AI are going going to be kind of
+37:29
+ironically the two startups anthropic and open AI that are out and then the big companies Google and so forth and
+37:35
+Microsoft and so we can put a huge regulatory barrier on them because they
+37:40
+have the money and the people to deal with it uh and then that'll be and you know in their minds I think they
+37:46
+actually believe that that would be how we would win um but of course you know
+37:52
+in retrospect that makes no sense uh and it kind of it damages you know if you
+37:57
+look at China and what China's great at then this goes to the next thing so there's how good is your AI and then how
+38:04
+well is it integrated into your military and the way the government works and so
+38:09
+forth and I think that China being a top- down Society their strength is
+38:15
+um you know that whatever AI they have they're going to integrate into it's already all the companies are highly
+38:21
+integrated into the government so you know they're going to be able to deploy that and and we're going to see it in
+38:27
+action uh with their military very fast um I think that the advantage of the US
+38:34
+is like we're we're not a topown society we're like a wild messy Society but it
+38:39
+means that all of our smart people can participate in the field and um look
+38:45
+there's more to AI than just the big models as you said like you know how important is cursor it's really
+38:51
+important if you're building stuff so like oh you want to go build um you know
+38:58
+the next uh whatever thing that the CIA needs or the NSA needs or this and that
+39:04
+like you're building that with cursor you're using a state-of-the-art model but like if you had eliminated if you know if the Biden White House had gotten
+39:11
+their way they'd eliminate things like cursor they'd eliminate startups being able to do anything in Ai and so the
+39:18
+advantages that we have that we we don't just have a model we've got all this other stuff that goes with it and we've
+39:24
+got you know and then we have new ideas on models um you know with new algorithms and this and that and that's
+39:30
+what the US is great at and I think you know what China is great at is uh you know by the way they're very
+39:36
+good at math they have a lot people are good at math and AI is math so they they're gonna their models are good they
+39:42
+also have a data advantage on us um where they have access to the Chinese internet they have access to copywritten
+39:48
+material which uh they do not um have the same uh difference for it that we do
+39:53
+in the US and so they're able to kind of get to you know if you use deep seek you go wow
+39:59
+deep seek really is a great writer compared to a lot of the US models why is that well they they train on a bigger
+40:06
+data set than we do um and that's amazing uh so so it really you know I
+40:12
+think what we want is we want to have kind of worldclass first class AI in the
+40:17
+US and I think of it less as you know is it ahead of China is it slightly ahead of China I think that
+40:25
+model you you know what we've seen with our own state-of-the-art models is leads are
+40:30
+very shallow um and I think that'll continue as long as we're able and allowed to
+40:36
+build Ai and then economically what you'd like is you'd like you know to have a vibrant AI ecosystem coming out
+40:43
+of the US so other countries you know who aren't um state-of-the-art with this
+40:48
+stuff adopt our technology and you know we continue to be strong economically as
+40:53
+opposed to everything goes to China and that was like a big big risk with the Biden Administration I think um and you
+41:00
+know which was you know what they were doing on AI was you know tough I would say what they
+41:07
+were doing on kind of fintech and crypto was even tougher uh in that they were just trying to get rid of the industry
+41:14
+in its entirety you know with AI they were trying to I would say they were extremely
+41:20
+arrogant in their in what they thought their ability was to predict the future um you know
+Biden Administration's AI Stance
+41:27
+Mark and I were in there you know like our job is to predict it like this is our job to invest in the future to
+41:33
+predict the future and they were saying things that like we're so arrogant that we would never even
+41:40
+think to say them even if we thought them because we're like we know that we don't know the future like that um you
+41:47
+know it's just unknowable there's too many moving parts I mean these things are really
+41:52
+complicated all right well speaking of the future fully accepting that it is very very opaque and very difficult to
+41:58
+see what would you say is the most controversial view that you hold about the future if we don't get to world
+42:06
+class in crypto we're going to be you know AI really has the potential to
+42:12
+wreck Society uh and what I mean by that is if you think about what is obviously
+42:20
+clearly going to happen in an AI world is one we're not going to be able to tell the difference between a human and a
+42:26
+robot two we're not going to know what's real or fake um three uh the level of
+42:33
+security attacks on big Central data repositories is going to get so good
+42:40
+that everybody's data is going to be out there and you know there is no safe
+42:45
+haven for a consumer um and then finally you know for these agents and these these Bots
+42:52
+actually be useful they they actually need to be able to use money and pay for stuff and get paid for stuff like so uh
+43:00
+and if you think about all those problems those are problems that are by far best solved by kind of blockchain
+43:07
+Technology uh so one we absolutely need
+43:12
+a public key infrastructure such that every citizen has their own wallet with
+43:18
+their own data with their own information um and if you need to get
+43:23
+credit or prove you're a citizen or whatever you can do that with the zero knowledge proof you don't have to hand
+43:29
+over your social security numbers your bank account information all this kind of thing because um the AI will get it
+43:38
+uh so so so you really need your own keys and your own data and there can't be these gigantic you know massive
+43:45
+honeypots of information that people can go after uh I think that with deep fakes
+43:51
+if you think about okay we're gonna have to be able to Whit list things we're
+43:56
+going to have to be able to say what's real but who keeps track of what's true then is it the
+44:01
+government you know oh please Jesus everybody trusts everybody trusts Trump now you know everybody trusted Biden um
+44:07
+is it gonna be Google we trust those guys or is it going to be the game theoretic mathematical properties of the
+44:13
+of the blockchain that that can hold that um and so I think that you know
+China Has A Data Advantage
+44:19
+it's essential that we regenerate our kind of uh blockchain crypto development
+44:25
+in the US and we get very ious about it and you know like if the government were to do something I think it should be to
+44:31
+start to require these information distribution networks these social networks to to have a way to you know
+44:39
+verifiably prove your human you know prove where a piece of data came from and so forth uh and I think that you
+44:47
+know we have to you know have Banks uh start accepting zero knowledge proofs
+44:53
+and and uh you know and that be just the way the world works we need need a a network architecture that is up to the
+45:00
+challenge of you know these super intelligent agents that are running around we were talking before we started
+45:07
+rolling that you guys have an office in DC and part of what you do is advise on that like what what does the
+45:13
+infrastructure changes what do they need to look like um what are a small handful of things that you guys are really
+45:19
+pushing to see the government adopt to modernize the way that uh the whole bureaucracy works yeah so there there's
+45:26
+a few things you know and one of the things is because uh you know blockchain technology involves money um we do need
+45:34
+right it's not like we don't need any regulation we do need regulation um and there are kind of very specific things
+45:41
+that that we're working with the administration uh to make sure are done in a way that uh kind of creates a great
+45:49
+environment for everybody what do you guys hoping will get blocked out for instance is that what you're about to
+45:55
+cover yeah I mean so like one of the um first thing you need is you know we we
+46:02
+do need electronic money you know in the form of stable coin so actual currency
+46:08
+um and but we need that to not like it's very bad if one of those
+46:14
+collapses uh because then like the whole trust in the system breaks down and so forth well why why do we need this kind
+46:20
+of money this this kind of Internet native money um well I give you an
+46:25
+example so we have ay um called daylight energy and what they do is um so we're running we're going to
+46:33
+run into a big energy problem with AI that I think most people probably listening to this know about where AI
+46:39
+consumes a massive amount of energy you know much more than Bitcoin ever did by the way which everybody was all up in
+46:44
+arms about uh and you know so much so that like you can't really even get it out of the power grid and I think Trump
+46:51
+has been smart about this saying hey you probably need to build a a uh kind of uh
+46:57
+power next to your data center because we can't be giving it to you from the central thing but beyond that I think
+47:03
+that you know kind of individuals uh you know now have Tesla kind of solar panels
+47:09
+and power walls and these kinds of things um and when you have one of those you sometimes have more energy than you
+47:15
+need and sometimes have less and wouldn't it be great if you could um you
+47:20
+know if there was a nice system that figured out who needed energy and who
+47:26
+had energy and you could just trade and there was some kind of contract that said okay this is what you pay during
+47:32
+Peak this is what you pay at different periods um and that contract probably best done in the form of a smart
+47:38
+contract but a power wall is not a human so it doesn't have a credit card it can't get a credit card it doesn't have
+47:43
+a bank account doesn't have a Social Security number um but it can trade crypto it can trade stable coins uh and
+47:50
+so we need that kind of currency to kind of facilitate um all these kind of
+47:56
+automated agreements and automated transfer of uh of of kind of wealth
+48:04
+between entities in order to kind of solve these big problems that we have like energy uh and so we need a stable
+48:12
+coin bill that kind of says okay look we need uh these currencies to be backed
+48:18
+one for one with US dollars or or whatever it is um so that you know we
+48:23
+can have a uh A system that works in a trusted now there's this really
+48:28
+interesting side benefit to that which is if you look at treasury auctions lately um the demand for dollars is not
+48:37
+good uh you know and a lot of that is you the two biggest kind of lenders to
+48:42
+the US have been China and Japan and um you know China's backed off a lot and
+48:49
+Japan has backed off somewhat and so the demand for dollars has gone down we've done things to also dampen demand like
+48:56
+you when we uh sanctioned Russia and we seized the assets of the Russian Central Bank you know there were other countries
+49:02
+that had you know other entities that had money there um and their money got frozen and they couldn't access it and
+49:08
+so that makes people more wary of holding everything in dollars uh so we've done a lot to dampen that which of
+49:15
+course has you know fueled inflation in the same way that increasing Supply
+49:20
+fuels inflation killing demand fuels INF inflation so here we would have this new
+49:26
+major source of demand for dollars uh and then the dollars would be much more useful because you can use them online
+49:31
+as well uh and machines can use them and so forth so we we really need and sorry really fast for people that are trying
+49:37
+to track that the reason that that would increase the demand for dollars is that they would the stable coin would be
+49:44
+backed one for one with debt is that the idea well yeah with uh you where you
+49:49
+would basically have you would have to have a dollar WR a a um for for you hold
+49:57
+treasuries stable coin yeah you basically hold treasuries so that if somebody wanted to redeem their stable
+50:02
+coins they could and then that way you know it kind of the equivalent of the gold standard in the old days you know
+50:08
+when dollars were trying to get credible you know we would need like uh dollars
+50:14
+to be the gold standard for the stable coin um you know and and probably we should never back off of that maybe we
+50:21
+should never backed off of gold but uh you know it's easier dollars because we we did kind of to run out of gold a bit
+50:29
+um so you know so that's you know one thing um then secondly uh there's a bill
+50:37
+that went through the house known as the market structure bill it was technically called fit 21 um that's a very important
+50:45
+you know whether it's exactly that or some form of that um because you know when you talk about
+Stablecoins Are Essential
+50:51
+tokens which are the this kind of instrument um that's very very important in blockchain world because it's the way
+50:59
+that this uh amazing kind of network of computers gets paid for so you know who
+51:06
+who pays the people for running the the computers well that's paid in the form of these tokens um but these tokens um
+51:14
+which can be created on blockchain uh have they they can be many things um so
+51:22
+you can create a token that's a collectible you know uh you can create a token
+51:27
+that uh is a digital property right you know that links to you know some piece
+51:32
+of real estate or a piece of art or so forth a token can be a you know Pokemon
+51:38
+card a token could be a coupon a token could be a security that represents a
+51:44
+stock it could be you know a dollar uh so which one is it is a very kind of
+51:50
+important set of rules that doesn't exist and this is one of the the most Insidious thing that the Biden
+51:56
+Administration did was basically say well everything is a security everything's a stock um or you know like
+52:03
+some thing with asymmetric information which kind of basically undermines the
+52:09
+whole uh Power of the technology and so it was basically a scheme for them to um
+52:17
+uh kind of get rid of the industry uh but it was it was very very dark
+52:24
+um cynical way of uh of of legislating things and then they would make these
+52:29
+you know fake claims about scams and so forth uh but the market structure bill is is very very important in that way
+52:36
+and by the way also you know another thing that was in the original Market structure bill which is important is
+52:42
+look there are also scams and there are you know and we call it the casino but
+52:48
+uh you know like I can create some coin like the hak Tua girl did right like and
+52:55
+uh she creates a coin she kind of lies about uh you know her
+53:02
+Holdings and says she's going to hold them but then sells them you know after people buy it in a short time period and
+53:08
+so forth and there's no you know part of the problem is there's no kind of rules around that but in the kind of Bill that
+53:15
+passed the house it said like you can create a token but if you hold it you
+53:20
+can't trade it for four years that kind of takes a lot of the ability to scam out of it and kind of
+53:28
+forces people to do things that are the real utilities or if it's a collectible you know if it is the hakua
+53:34
+collectible you know it's got to be a real collectible where you don't just you know rug the uh users of it right
+53:42
+away and so that you know that that's it's okay to do it later but well
+53:48
+but you know like in four years it is what it is right you yeah I'm just giving you a hard time I just know how
+53:53
+that's going to sound to people yeah yeah not thank you um but you know so these kinds of things I think are are
+54:00
+going to be really important to to making the whole industry work and so we're working you know on that you know
+54:06
+trying to make it uh safe for everybody but you as I said it's just such a critical technology in an AI world you
+54:13
+know where if we don't have it yes it's just going to be like a very
+54:19
+kind of problematic um you know it's going to you it's cyberpunk it's a
+54:27
+it's a it's a not a you know it's a high technology uh difficult Society we'll
+54:35
+get back to the show in a moment but first let's talk about a reality many business owners are facing you
+54:41
+understand the power of social media but you're not posting consistently because the editing process can take Precious
+54:46
+hours out of your day nobody wants to spend hours cutting up videos when they could be running their business the
+54:52
+solution is to turn the things you're already doing into social social media content automatically that's why I'm
+54:59
+excited about Opus clip their clip anything AI tool is changing everything
+55:05
+all you have to do is upload any long form video and clip anything automatically finds the best moments and
+55:11
+turns them into social ready Clips our social team at impact theory has been using it to streamline content creation
+55:17
+but this isn't just for media companies it's for any business owner who needs to maintain a social presence without
+55:24
+sacrificing hours to video editing here's your chance to try it go to op.
+55:31
+prcp anything and give it a try for free right now that's op. proo clip anything
+55:40
+and now let's get back to the show yeah yeah it uh it was shocking to me the
+55:46
+level of backlash that the blockchain web 3 Community got um what do you think
+55:53
+drives that is it just the per that it was only scams and there's nothing real
+55:59
+like what was that all about so there was multiple factors so the first one is the one that hits all new technology
+56:06
+where oh it's a toy um it doesn't do anything new like the old way of doing
+56:12
+things is better um and you know we saw that with social networking we actually saw that
+56:19
+with the internet I mean I think Paul Krugman famously said you know never have more economic impact than a fax
+56:24
+machine and so forth so that's just kind of a normal thing that happens with new technologies is they start out looking
+56:31
+um not that important and with crypto in particularly you know one way to think about crypto blockchain is it's a new
+56:37
+kind of computer and if you think about new kinds of computers they're always kind of worse in every way but maybe one
+56:47
+than the old computer and so you know if you look at um even like the iPhone it
+56:54
+was a bad phone um it had a horrible keyboard you know if you compared it to
+56:59
+anything it wasn't very powerful it had a little itty bitty screen um but it had
+57:05
+a feature that was pretty awesome which you could put in your pocket um and it had like a GPS in it and a camera in it
+57:12
+and so now you could build Instagram you could build Uber which you could not build with a PC and you still can't
+57:18
+build with a PC um and so that was you know enough and then eventually like it started to add the other features and
+57:24
+it's an awfully powerful computer these days um if you look at blockchain it's
+The Market Structure Bill
+57:31
+slower it's more complicated to program like there's a lot of issues with it but it's got a new feature uh which is trust
+57:38
+like it can make promises you can trust like when that
+57:44
+code you know says there's only 21 million Bitcoin you can absolutely count on that
+57:51
+uh in a way that like you can't trust Google you can't trust you know Facebook
+57:56
+to say like oh these are our privacy rules like you can't trust that at all
+58:02
+you can't trust the US government to say they're not going to print any more money like that's for sure and so you
+58:07
+know here's h a computer that can make promises um that you can absolutely
+58:13
+count on and you don't have to trust a company you don't have to trust a country you don't have to trust a lawyer
+58:18
+you just have to trust the game theoretic mathematical properties of the blockchain um and that's amazing so now
+58:25
+you can you know programed property rights and money and law and all these kinds of things that you could never do
+58:32
+before um and so I think that was that's hard for normal people to understand who
+58:38
+who aren't deep in the technology and so they get confused and they say ah it's nothing blah blah blah uh and then um
+58:45
+you know I think the next wave was you had look you know it was a very odd
+58:52
+thing um with the Biden administration because he wasn't really I think it's
+58:57
+come out now he wasn't really the president he wasn't really making any decisions um you couldn't even get a
+59:03
+meeting with him if you were in his cabinet and in terms of domestic policy that was run by Elizabeth Warren and
+59:10
+then the second confusing thing is Elizabeth Warren is always calling like people fascist her whole push with
+59:17
+fintech and crypto was to make sure that she could kick people out of the banking
+59:24
+system who are political enemies and so in order to do that you have to Outlaw new forms of financial technology
+59:32
+because those would be kind of backd doors or side doors or or Parallels to
+59:38
+the GBS and the banking system which she comprehensively and I think this is coming out now could kick people out of
+59:45
+and so when you use when when it's a full top down hierarchy and you can use private companies to enforce your will
+59:52
+that is that that is the way fascism works and then the way she does it is she sells this fake story about you know
+1:00:00
+it's funding Terror and it turns out like the usaid was funding the terrorist groups but that's a different story but
+1:00:06
+you know it's it's doing all these nefarious things which you know was just a very unfair portrayal and so then the
+1:00:13
+whole industry got this reputation as scammy and this and that and the other and then of course we had um Sam bankman
+1:00:19
+freed who didn't do us any favors by yeah like you know and and this is another kind of though issue with what
+1:00:26
+Elizabeth Warren did is she blocked all legislation and so the criminals were
+1:00:32
+running free and the people doing things that should have been legal were getting terrorized by the government and when
+1:00:39
+they should have been looking they should have been looking at FTX they were looking at coinbase which was
+1:00:44
+totally compliant public company you know begging for feedback tell us what you want to Etc
+1:00:51
+exactly yeah yeah that that whole thing was crazy so given that AI is putting us
+1:00:57
+on a collision course with uh I don't know who's real I don't know what's fake do you think that blockchain is about to
+1:01:03
+have its day like in the next 12 to 24 months or is this still something that it's so embedded deep in the
+1:01:09
+infrastructure it's going to take a long time to really have its I Told You So moment yeah know I I think it's I think
+1:01:17
+it's within 24 months for sure I mean I think that there's enough you you know there were like
+1:01:24
+actual like if you look at kind of the last wave of blockchain there were real technological limitations that made it
+1:01:32
+you know I think we're slowing it down from getting broader adoption so you know very obvious usability challenges
+1:01:39
+um the fees were really high the blockchains were slow um so there were just a lot of use cases that you just
+1:01:46
+couldn't do on them um I think that's changing very very fast things are you
+1:01:51
+know the the the chains are much faster the layer 2 stuff makes them you know
+1:01:57
+very fast and cheap uh you know people are doing a lot on usability uh you know
+1:02:04
+for wallets and and these kinds of things so I think we're getting pretty close and then I think the needs are
+1:02:11
+very high so if you think of something like um worldcoin you know to me the
+1:02:18
+difference between that thing being very broadly adopted and where it is now where it's I think half the people in
+1:02:24
+buos Aries use it daily so like it's very widely adopted
+1:02:29
+where it's been legal I think that you know if they are able to get integrated
+Regulation Capture And Government Intervention
+1:02:35
+into some of the big social platforms um then you know I like everybody needs
+1:02:40
+proofy human uh and uh you know like like it would make the experience online
+1:02:48
+so much better if you knew who is human and who was not and right now like you can't tell at all uh and so and and that
+1:02:56
+problem is going to get worse and then the solution is really here so so I I
+1:03:01
+think it's going to start to take off and you only need one or two big use cases to start getting the
+1:03:08
+whole infrastructure deployed uh and you know once the infrastructure is deployed you know I I think we'll certainly rely
+1:03:14
+on it um and if you look at actually the curve of people who have active wallets
+1:03:21
+and the curve of like internet adoption they're pretty similar
+1:03:26
+um you know that it's about I think blockchain's growing a little faster than the internet did initially uh and
+1:03:34
+so I think you know we'll get to a place where certainly everybody in the US will be on it uh which by the way could be
+1:03:43
+great from a government standpoint you know Elon has talked about putting okay all the government payments on the
+1:03:48
+blockchain which I think would be really really good for transparency oh my God we never get into this weird situation
+1:03:54
+now where like half the country wants to uh tear down all the government services
+1:03:59
+and half of them wants to keep it because nobody knows what the hell the spending is um but that would be great
+1:04:05
+uh but you know beyond that like if you think about well why is there so much waste and fraud well part of it is you
+1:04:12
+know like you know I get taxed I give my money to the IRS the IRS gives it to
+1:04:20
+Congress they you know do whatever they do with it and so forth and well how does it get to the people who need it um
+1:04:28
+you know that's a very lawy process you know and we don't even know who they are and it's very you know one of the things we found out during Co the government's
+1:04:34
+not very good at sending people money it's good at taking money it's not good at sending them money right we lost like
+1:04:39
+$400 billion dollars trying to give people uh stimul ridiculous yeah crazy
+1:04:45
+ridiculous you know like if everybody in the US had an address on the blockchain
+1:04:51
+you could just tell me okay here's 10,000 people who need money please send them you know $5,000 each well probably
+1:04:59
+that's too much money for me but you know something like that uh you know whatever my tax bill is or whatever that
+1:05:06
+portion of wealth redistribution is that would be 100% zero loss by the way I'd
+1:05:11
+feel a lot better about it um because i' know I'd be helping people and you know look maybe even somebody would go hey
+1:05:18
+this is great thank you and like maybe we would bring us we wouldn't have this crazy class Warfare because everybody would know hey we're all integrated you
+1:05:24
+know like I'm helping you you're helping me uh and then like if you had that then
+1:05:29
+you'd fix the whole kind of democracy Integrity problem because everybody
+1:05:35
+could vote off that address and by the way everybody would have an address because everybody would want the money
+1:05:41
+so what bigger incentive to register to vote than you in order to get money you
+1:05:48
+have to have an address which registers you to vote and so that kind of thing I think um could get us to it just a like
+1:05:55
+a much higher trust in our own institutions yeah so wow speaking of
+1:06:02
+that I wanted to absolutely scream into the abyss when I heard that people
+1:06:07
+couldn't retire from the government faster than the elevator would lower their records down into a mine I was
+1:06:14
+like what is happening what do you take away from why does Elon want to do this
+1:06:20
+why is he sleeping in hallways um why why is he doing this is
+1:06:25
+it just to get government contracts and it's nefarious in the way that so many people think it is or is there something
+1:06:31
+positive there what's the what's the game I think there's a couple of different things so one is the the
+1:06:39
+strong thing is he he truly believes that um America is the best country in
+1:06:44
+the world you know he is an immigrant um and that it's not guaranteed to stay
+1:06:50
+that way and and we have been in danger of losing it
+1:06:56
+uh and you know and so the most important thing for him to do in order for his companies to be relevant in
+Blockchain Adoption
+1:07:03
+order for going to Mars to be relevant in order for anything he wants to do in life to be relevant is we've got a
+1:07:08
+stabilized US Government I think that's the main thing driving him you know so then you say well how did he get to that
+1:07:13
+conclusion that you know the whole country is in Jeopardy and it really
+1:07:19
+like it's a pretty uh it was a pretty interesting thing to watch um because
+1:07:25
+right in 2021 I think he was a Democrat and he was certainly pretty
+1:07:30
+apolitical and uh I was actually in a chat group with him um when he got the
+1:07:36
+idea or posed the question should he buy Twitter um
+1:07:42
+and a lot of it stemmed from um you know it started with the US government just
+1:07:49
+harassing him uh which was a very odd thing right like here's your I mean I think you could very well argue he was
+1:07:56
+our most productive citizen he um was our entire Space Program he Advanced the
+1:08:02
+state of electric cars by 20 years he's still like 95% of or something like that
+1:08:07
+percent of the electric cars sold in the US Jesus um you know he's you know done
+1:08:13
+the things with neuralink to you know help people like uh use their arms and
+1:08:19
+legs who who have been paralyzed and this kind of thing so you know you've got um you know really kind of
+1:08:26
+remarkable person to want to pick on but uh what happened was uh because he got
+1:08:33
+like this PR for being very wealthy um the Biden Administration targeted him um
+1:08:39
+you know and again they're fascists so uh it's really a power struggle always with the fascist and anybody who looks
+1:08:46
+like they're becoming powerful and you know some of the things they did and you know one of the ones that's talked about
+1:08:51
+a lot was um they sued him the by Biden Department of Justice sued him for uh
+1:09:00
+discriminating against refugees um but he had a contract with the US Department
+1:09:05
+of Defense that required him to only hire US citizens so he was breaking the law either way uh and they they never
+1:09:12
+dropped the lawsuit you even after it was pointed out even after you know it was pointed out by Congress uh so it was
+1:09:19
+clear harassment and I think that his conclusion from that was you know this
+1:09:26
+we are like ironically um I think his conclusion was we're losing the
+1:09:31
+Democracy um you know we're going into this very very strange world uh where
+1:09:37
+the incentives are all upside down and you know the way Elon thinks is it's up
+1:09:43
+to him to save it um and so he got like extremely involved and then I think the
+1:09:48
+more involved he got the more he both realized like a lot of the
+1:09:54
+things really dangerous and then secondly that um he personally uh would
+1:10:02
+be somebody who would know how to fix it and you go like well why the hell would Elon Musk know how to fix the government
+1:10:08
+all this and you know this is the thing that everybody's saying now uh and it's funny because I told this to um andrees
+1:10:16
+years ago uh was because I I'm a big fan of Isaac Newton and you know like we we
+1:10:23
+always talked about like who is Elon like you know know like what entrepreneur comes to mind you know and
+1:10:28
+it really wasn't maybe Thomas Edison but not really um but Isaac
+1:10:34
+Newton uh whoa was really the one that I always thought he was most like um you
+1:10:41
+know because it's like okay who can build like rockets and cars and this and that and the other but the reason I thought he was like Isaac Newton was at
+1:10:48
+the end of Isaac Newton's life um when he I think he was he was in his late 60s
+1:10:53
+uh maybe like 60 768 and this is you know for those of you who don't know Isaac Newton like he figured out how the
+1:11:00
+entire world works and wrote it down in a book um you know called principia Mathematica which is probably the most
+1:11:06
+amazing work in the history of science uh and he did it like entirely by
+1:11:12
+himself like he didn't even talk to anybody at this you know at the time he wrote it I think he was trying to figure
+1:11:18
+out what God was or something like that um but as you do but so he gets to be
+1:11:23
+you know like in his late 60s and the bank of England has a crisis which is causing a huge crisis for the
+1:11:30
+whole country um which is uh there's a giant counterfeiting problem so the
+1:11:36
+currency is going to be undermined and uh England's going to basically go bankrupt and so they had no idea what to
+1:11:43
+do about it um so they call Isaac Newton because he's the smartest man in the world of course you're GNA call him so
+1:11:49
+Isaac Newton 67y old like uh hermit physicist goes in
+1:11:55
+and he says okay I can help with the problem make me CEO of the mint so they make him CEO of the mint you know kind
+1:12:02
+of headed do whatever uh and he reorganizes the mint in like a week and then fixes the
+1:12:09
+technology in a month and completely makes it impossible to counterfeit then
+1:12:15
+he becomes a private eye uh and goes into all the pubs where the counterfeits
+1:12:20
+are arrests all of them then he learns the law and becomes the prosecutor
+1:12:25
+and prosecutes all the counterfeits and has 100% conviction record and that by by the way that's
+1:12:33
+Elon so if you this is I didn't know that part of his story oh yeah yeah yeah so
+1:12:39
+it's it's an amazing thing um and if you look at Elon and Doge like the to me the
+1:12:45
+most remarkable thing about Doge is how he's done it so if you or I
+1:12:54
+were to say okay let's go in and kind of get the
+1:12:59
+waste and fraud out of the government what do we do we would like audit the Departments or this and that the other
+1:13:04
+and so forth no no no no like not that's not how he thinks he's like well the
+1:13:09
+first thing like how do the checks go out like how is the system designed like
+1:13:17
+when does the money leave the building and then oh it all comes out of one system let me have access to that system
+1:13:24
+and I'll look at all the payments I'm not asking anybody what they're spending I'm looking at what they're spending
+1:13:30
+like I'm getting to ground truth and then I'm going to work my way backwards from there and he's probably and and you
+1:13:37
+know so not only is he not unqualified he's the maybe the only person qualified
+1:13:42
+to figure out like how we're spending s trillion doll um and so you know so I so
+1:13:51
+you know he's just a very unique individual um
+1:13:57
+he's also a troll he also likes upsetting people I get all that um but
+1:14:04
+what he brings to the table is pretty interesting I would say like very yeah I would say very extraordinary um you have
+1:14:10
+also written about another extraordinary historical figure um from the Haitian
+1:14:16
+revolution a guy named tucon ler yeah yes yes yeah uh tell us about him
+1:14:23
+because there's something about this moment about being a master strategist about um using what you have being
+1:14:30
+creative that feels like it's very apropo to this moment um yeah what made
+1:14:39
+his story special yeah so to S was um another one of these characters in history like there are certain I call
+1:14:46
+them like once in every 400 year type people um where you just don't see them
+1:14:51
+that often but so it turns out like in the history of Humanity um there there's been one kind
+1:14:58
+of successful slave revolt that like endered in an independent state uh which
+1:15:04
+you know if you think about the history of slavery which goes back thousands of years really kind of
+1:15:12
+from the beginning of written history like we've had slavery so um it's it's like a pretty oldtime construct and you
+1:15:21
+know there's a lot of motivation to have a Revolt if you're a slave uh but why only one successful one and it turns out
+1:15:27
+it's it's really hard um you know for to generate a an
+1:15:34
+effect of Revolt if you're slaves because slave culture is difficult
+1:15:40
+because you don't own right if you don't have uh any sense of you know owning
+1:15:47
+anything you don't own your own will right like you are at the kind of pleasure of who's ever running things um
+1:15:55
+so long-term thinking doesn't make sense um and what it because like why plan for
+1:16:02
+next week it doesn't matter what you plan like it's not yours uh so everything's going to be very short-term
+1:16:08
+and short-termism is difficult in a military context because uh in order to have an effective
+1:16:15
+military there needs to be uh a trust right like a trust you know you have to
+1:16:21
+be able to trust people to execute the order like I give an order um it's kind of like the Byzantine General's problem
+Isaac Newton's "DOGE" Pursuits
+1:16:27
+uh to go back to crypto uh where like I have to trust that you're going to do
+1:16:33
+the order you have to trust that I'm giving the correct order um but trust is a long-term idea because it comes from
+1:16:40
+okay I'm going to do something for you today because I trust that down the line You'll do something for me that doesn't
+1:16:45
+really exist in slave culture because it there is no long term um so there is no
+1:16:50
+tomorrow uh and so like how do you go from that to like running a successful
+1:16:57
+Revolution and then if you look at Haiti at the time um you know you had the
+1:17:03
+French army the British army uh and the Spanish Army all in there kind of
+1:17:08
+fighting for it so like really well developed you know kind of the strongest militaries of the era all in that region
+1:17:16
+all very interested in the sugar um you know which was quite valuable at the
+1:17:22
+time so like how in the world would you ever get out of that uh and it turned out you know he he ended he was um
+1:17:30
+probably the great cultural Genius of the last um you know you know maybe in
+1:17:35
+history but certainly the last you know several hundred years uh and he uh was able you know because he
+1:17:44
+was a person who although he was born a slave was very very integrated into European culture because he was so smart
+1:17:52
+and um so the the person who ran the plantation um kind of took him to all
+1:17:59
+the Diplomatic meetings around and so forth and he got very involved and kind of mastered you know European culture um
+1:18:07
+so to speak and in the different subtleties around it and he started adopting those things and applying them
+1:18:13
+to his leadership and then you know furthermore Incorporated Europeans into the slave
+1:18:20
+Army so he would capture um you know he he he would defeat the Spanish capture
+1:18:26
+some guys rather than kill them he'd incorporate you know the best leaders into his army and he built this very
+1:18:33
+like Advanced hybrid fighting system where they used a lot of the gorilla Tech you know techniques that uh he had
+1:18:39
+brought over from Africa um and then he had uh you know combined that with you
+1:18:46
+know some of the the kind of more regimented um kind of discipline
+1:18:52
+strategies of of the Europeans and building all that you know he he ended
+1:18:57
+up building this massive Army and you know defeated Napoleon and and everyone else and it was like just quite a
+1:19:04
+remarkable story about how he just kind of figured everything out from for his principles and in a way yeah that was uh
+1:19:12
+you know kind of very much like uh Elon in that sense yeah one of the things I
+1:19:17
+heard you talk about yeah yeah wildly but one of the things I heard you talk about that I thought was so ingenious
+1:19:23
+was he would basically use song and sound as like encrypted language
+1:19:29
+it's really yeah so that was that was that was like a very cool thing so right
+1:19:34
+remember that this is in the days before telepan or the internet or any of these things you know it's pre Alexander Gran
+1:19:41
+Bell and all that kind of thing um and so you know they they were literally you
+1:19:46
+know the Europeans were on like you know notes carrier pigeons guys running you know back and
+1:19:53
+forth and so forth and so as AAS result you know you kind of needed the Army together in one place just so you
+1:20:00
+could communicate the order um tant uh basically you know had these um drummers
+1:20:08
+and these songs um which he could put on top of like uh the hill who could be
+1:20:14
+very very loud and then he would separate his army you know into like six or seven groups um but in the song would
+1:20:22
+be embedded uh the order of when to attack and you know when to retreat and
+1:20:28
+all these kinds of things so he had this like super Advanced you know wide area communication system that nobody else
+1:20:35
+had and that you know that was a big uh big Advantage for him yeah that to me
+1:20:41
+the reason that that comes up for me now is we have all these new technologies that are coming online and the person
+1:20:46
+that's going to be able to get outside that box and see something new and fresh is going to be able to use this in in
+1:20:52
+totally different ways and while in the final analysis I think you and I see it very differently in terms of ai's
+1:20:58
+ability to ultimately gobble up um what humans can do but right now ai is this
+1:21:05
+incredible tool that as an entrepreneur for me it has been um rediculously
+1:21:11
+exciting to one see how much farther each of my employees can push their own abilities by using Ai and then it does
+1:21:18
+not take much to prognosticate out you know 12 18 months to understand where
+1:21:23
+the tools are going to be and how much more they're going to let you do because we're largely an entertainment company so for us to look at that and uh just
+1:21:31
+the Revolutionary changes but you can't be trapped inside the old way of thinking you've got to like you said
+1:21:37
+build up from first principles yeah it's a new creative canvas I think that's like a really great way of thinking
+1:21:43
+about it in that um it's like well is your creativity going to be used on
+1:21:51
+um you know kind of fr by frame editing of like a video or will it be thinking
+1:21:59
+of like incredible new things you can do in a video ad that you could never do before and have the AI do that for you
+1:22:06
+you know like and so it's kind a little bit of a Readjustment of where you put
+1:22:11
+your creative energy into and the things that are possible and so forth and I think that's you know we're really
+1:22:18
+seeing that across the board like in our firm um we're applying a lot of AI and you'd be like oh well is this going to
+1:22:24
+mean you know like you don't have human investors anymore and it's actually been like totally the opposite like instead
+1:22:32
+of this like painstakingly collecting you know all
+1:22:38
+the data needed to put the investment memo together like the AI just does that for you and then you're just thinking
+1:22:44
+about like okay what are the like the really compelling things about this or rather than you know trying to track
+1:22:51
+every entrepreneur and great engineer in our database the AI is just tracking all
+1:22:57
+those people and letting you know hey that guy just updated his LinkedIn profile or that guy just put out like a
+The Haiti's Revolution
+1:23:03
+interesting tweet um maybe you should call him and that kind of thing which is just a like a much more kind of fun part
+1:23:10
+of the game uh and and so you know look I would say the the best predictor of
+1:23:18
+kind of how things are going to go or or more like what's happening now than like
+1:23:23
+the most dystopian view of it that uh we can possibly think of which I I think is
+1:23:29
+where a lot of people go to and like I said I think some of that's the name you know artificial intelligence just s We
+1:23:36
+Hate Everything artificial so why do we name it
+1:23:41
+artificial that's too true Ben I've enjoyed every minute of this where can people keep up with you yeah well I am
+1:23:49
+be Horwitz on X and um you know uh
+1:23:54
+that's probably the best thing we're a16z decom um and uh hope you enjoyed it
+1:24:00
+and uh that was it was great fun good fun catching up it was indeed and then you also have uh multiple books that
+1:24:06
+people can read that are extraordinarily well respected in the field so also
+1:24:11
+thank you for those absolutely okay awesome thanks so much well thank you brother I appreciate it
+1:24:17
+all right everybody if you have not already be sure to subscribe and until next time my friends be legendary take
+1:24:22
+care peace if you like this convers check out this episode to learn more I
+1:24:27
+think the AI censorship Wars are going to be a thousand times more intense and a thousand times more important my guest
+1:24:32
+today is someone who doesn't just keep up with Innovation he creates it the incredible Mark Andre trust me when
+1:24:38
+someone like Mark who spent his entire career betting on the future says

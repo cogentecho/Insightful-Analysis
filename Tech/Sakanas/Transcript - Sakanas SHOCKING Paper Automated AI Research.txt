@@ -1,0 +1,1083 @@
+https://www.youtube.com/watch?v=RP098Dfjw8A
+
+Transcript - Sakana's SHOCKING Paper "Automated AI Research"
+
+
+0:00
+so you might recall an AI project we
+0:02
+covered a while back in August of 2024
+0:04
+called the AI scientist with a company
+0:07
+Sakana.AI built a AI system that would
+0:10
+hopefully at some point be fully
+0:12
+automated to do open-ended scientific
+0:14
+discovery where AI would contribute new
+0:16
+findings to science the idea was to take
+0:19
+LMS create some sort of a scaffolding
+0:21
+around it give it some tools and to have
+0:23
+it perform research independently well
+0:25
+fast forward to today and the AI
+0:28
+scientist generates its first
+0:29
+peer-reviewed scientific publication
+0:32
+this as far as we know is the first
+0:34
+paper of this kind this can be seen as
+0:37
+an example of AI contributing fully
+0:39
+autonomously right on its own doing all
+0:41
+the work and all the experiments and
+0:43
+contributing new knowledge to science
+0:46
+now you've seen this image on this
+0:47
+channel before but just so everybody's
+0:50
+on the same page there's this idea of an
+0:52
+intelligence explosion a point sometime
+0:54
+in the future in this case this is
+0:56
+Leopold Ashen Brener an ex open AAI AI
+0:59
+safety researcher you know he's saying
+1:01
+it might happen 2027 or sometime in that
+1:03
+time period and this prediction is not
+1:05
+that far off from some of the other
+1:07
+people like Dario Amade that are talking
+1:09
+about when AI is going to reach this
+1:11
+level but the basic idea is this we of
+1:13
+course know that AI is beginning to
+1:15
+automate certain tasks some tasks it's
+1:17
+beginning to do better than humans can
+1:20
+some things it's still worse at some
+1:21
+things it's much much better at but the
+1:23
+point is what if it gets better than
+1:25
+humans at one particular thing that
+1:27
+thing is AI research as in when will the
+1:30
+AI the systems when will they become
+1:33
+better at improving themselves than
+1:35
+humans were able to this likely would
+1:38
+trigger a kind of sharp upward
+1:40
+inflection of the rate of progress in
+1:43
+AI's abilities and of course this would
+1:45
+likely cascade to pretty much everything
+1:47
+else all other areas of scientific
+1:49
+progress and pretty much anything else
+1:51
+and of course this is the time that a
+1:53
+lot of people are very excited about it
+1:55
+could lead a new golden era of
+1:57
+scientific progress but also maybe a
+1:59
+little bit scary because we're not quite
+2:01
+sure what that looks like also the idea
+2:03
+of AI doing stuff that we don't fully
+2:05
+understand to progress its own abilities
+2:07
+forward is a little bit daunting but as
+2:09
+you see here with this AI scientist by
+2:12
+the way this is kind of a version 2.0
+2:14
+right this is not the original AI
+2:15
+scientist which by the way is an
+2:17
+open-source project so you can download
+2:19
+it and you can um add to this project
+2:21
+you could have it uh do research on your
+2:23
+behalf etc it's on GitHub this is its
+2:26
+sort of bigger brother the next updated
+2:27
+version which sounds like it's also
+2:29
+going to get open source sometime in the
+2:31
+future so a lot of these technologies
+2:33
+will be available to everyone so here's
+2:36
+the paper that was written by this AI
+2:38
+scientist as you can see here they're
+2:40
+saying it's anonymous authors now the
+2:42
+reason for this is because the actual
+2:43
+peer review process was in itself a sort
+2:47
+of AI experiment if you will so there
+2:49
+are several very distinguished very
+2:51
+important sort of machine learning
+2:53
+conferences this one is one of them the
+2:55
+ICLR and they have a workshop where
+2:57
+you're able to submit papers to be
+2:59
+peer-reviewed by people according to
+3:01
+some guidelines to make sure that
+3:03
+they're highquality works that the
+3:05
+science is done right that everything is
+3:07
+sort of notated correctly that's a it's
+3:09
+a highquality paper that sort of
+3:10
+contributes to science without errors
+3:12
+etc and this year it had one little
+3:15
+extra clause that was added and it's
+3:17
+this these reviewers were going to
+3:20
+potentially see some AI generated papers
+3:23
+thrown in with the mix of other sort of
+3:25
+quote unquote real papers written by
+3:27
+real human authors now is a small
+3:30
+fraction of total papers so the
+3:32
+reviewers were notified that it's
+3:34
+possible although unlikely that they may
+3:36
+be assigned an AI generated paper to
+3:39
+review it was a double blind study so
+3:42
+nobody knew which paper was which nobody
+3:43
+knew which paper was human which paper
+3:45
+was AI generated and since it was
+3:47
+unlikely that any single individual
+3:49
+would review that paper I mean you
+3:51
+basically had to assume that you're
+3:52
+grading a human paper you would treat it
+3:55
+just like any other paper that you would
+3:56
+review now while the paper was better
+3:59
+higher quality according to these
+4:00
+reviewers than a lot of the human
+4:02
+submitted ones so it was a better higher
+4:05
+quality paper than sort of the average
+4:07
+accepted papers by human authors however
+4:10
+it wasn't perfect there was a number of
+4:12
+things here that the reviewers as well
+4:14
+as the people behind this project they
+4:16
+sort of went through and they noticed
+4:18
+some inconsistency for example the AI
+4:20
+scientist said that uh referred to
+4:22
+nesting the comment here is this
+4:24
+experiment did not contain a nesting
+4:26
+structure there was one error in this
+4:28
+thing that was uh kind of bizarre and
+4:30
+I'm not exactly sure what to make of it
+4:33
+it's kind of weird so there's this
+4:35
+person in the AI community his name is
+4:37
+Jurgen Schmidhuber very well-known
+4:39
+person and he had a lot of ideas back in
+4:41
+the days about how to kind of move the
+4:44
+AI field forward the machine learning
+4:46
+field forward and he believes he claims
+4:48
+that a lot of the sort of progress today
+4:50
+should be credited to him so for example
+4:53
+when a prize went to Dr hinton who is
+4:56
+referred to as the godfather of AI right
+4:58
+so Jurgen writes "Stop crediting the
+5:00
+wrong people for inventions made by
+5:02
+others." So here he's got a little uh
+5:04
+picture that's kind of throwing shade at
+5:06
+let's say kind of critiquing this is Yan
+5:08
+Lun Yosua Benjio and this is Dr hinton
+5:11
+and this is Jeffrey Hinton kind of like
+5:13
+a copying off of him so he sort of talks
+5:15
+about this a lot to the point where it's
+5:16
+almost kind of like a meme in the AI
+5:18
+research community back around the time
+5:20
+when the QSTR leak occurred from OpenAI
+5:23
+there's uh somebody that was claiming we
+5:25
+invented Qstar first and he presents
+5:27
+kind of a paper uh showing that they
+5:29
+invented it first you know Elon Musk
+5:30
+chimes in going "Shmid humor invented
+5:33
+everything." So you kind of get it right
+5:34
+so the Schmidt Huber has a lot of papers
+5:36
+back in the days describing some of
+5:38
+these concepts that are being kind of
+5:39
+developed into technologies now and he's
+5:41
+saying that hey no one's crediting him
+5:44
+for his discoveries what does that have
+5:46
+to do with our AI scientist paper well
+5:48
+if you scroll down this kind of jumps
+5:51
+out at you so when this paper is
+5:53
+describing the model architecture that
+5:55
+this AI scientist was using it wrote "We
+5:58
+use an LSTM based neural network which
+6:00
+it attributes to Goodfellow at all right
+6:03
+a paper published in 2016 which is what
+6:05
+you're supposed to do you're supposed to
+6:06
+sort of credit the people from whose
+6:08
+work you're you're borrowing right so
+6:10
+from whose research you're kind of
+6:11
+learning from etc notice the comment so
+6:14
+this is the correction that the uh that
+6:16
+the humans reviewing this paper made the
+6:18
+credit should have gone to uh you know
+6:22
+horse rider and Schmidhuber 1997 so LSTM
+6:27
+that's long short-term memory by Jurgen
+6:29
+Schmidh Huber 1997 so first of all this
+6:32
+is kind of hilarious but also it's like
+6:34
+how that's quite a mistake to make the
+6:37
+first fully autonomous AI research paper
+6:40
+that was produced those that passed the
+6:41
+peer review process kind of a big
+6:44
+milestone fails to credit the guy that
+6:47
+is very vocal very adamant about not
+6:49
+being credited for you know the work and
+6:52
+and instead other people kind of getting
+6:53
+the credit for it which something about
+6:54
+that is just very ironic and kind of
+6:56
+weird but now you might be wondering so
+6:58
+what exactly did did this AI actually do
+7:01
+like did did some scientist do the work
+7:04
+and it just like wrote up the paper like
+7:05
+what was its involvement in the process
+7:08
+well the human researchers they chose
+7:10
+sort of the topic or at least sort of
+7:12
+like the industry in which it should be
+7:14
+in again cuz they're submitting it to a
+7:16
+machine learning conference so they
+7:18
+can't do some biology study or whatever
+7:20
+it had to be machine learning so they
+7:22
+say they gave the AI scientist just the
+7:25
+broad topic to perform research on again
+7:27
+it had to be relevant to the workshop
+7:30
+that it was submitted to at which point
+7:31
+the AI scientist version two came up
+7:34
+with the scientific hypothesis right so
+7:37
+the the question it was asking the thing
+7:39
+that it was going to test to see if it's
+7:40
+real or not it proposed the actual
+7:43
+experiments that it was going to carry
+7:44
+out to test the hypothesis it wrote and
+7:48
+refined all the code that it needed to
+7:50
+conduct those experiments it ran the
+7:53
+experiments it analyzed the data from
+7:56
+the experiments it was able to kind of
+7:58
+visualize the data in figures and then
+8:00
+it wrote every single word of the entire
+8:03
+scientific manuscript from the title of
+8:05
+it to the final references including
+8:08
+placing figures and all the formatting
+8:10
+and also admitting to credit Jurgen
+8:13
+Schmidh Huber with his work okay I'm
+8:15
+done with that but it did everything so
+8:18
+then the human researchers picked which
+8:20
+paper they or papers they were going to
+8:21
+submit they submitted a total of three
+8:25
+and one of them this is the one that
+8:26
+we're talking about that one received an
+8:28
+average score of 6.33 ranking
+8:31
+approximately 45% of all submissions so
+8:33
+again those scores are higher than many
+8:36
+other accepted human written papers at
+8:38
+the workshop it's above the average
+8:40
+acceptance threshold so there was three
+8:42
+reviewers right one gave us six one gave
+8:44
+us seven one gave us six right six is
+8:46
+marginally above acceptance threshold so
+8:48
+it's kind of yeah you're you passed
+8:49
+buddy but it was close seven is kind of
+8:52
+it's a good paper no complaints we
+8:54
+accept it now it's important to note
+8:55
+here that this sort of workshop it's
+8:57
+probably not as rigorous as submitting
+8:59
+it to the sort of the conference itself
+9:02
+and also once the peerreview process was
+9:05
+passed the company behind this the
+9:07
+scientist behind this they they they
+9:08
+pulled the papers because there's
+9:10
+certainly a lot of sort of ethical
+9:12
+questions about how to approach this you
+9:14
+know completely AI generated papers and
+9:16
+then having you know human people sit to
+9:18
+review them how does that change what a
+9:21
+scientist is and while we all may have
+9:24
+different opinions about this you know
+9:26
+this is something that's it's it's an
+9:27
+ongoing conversation it's a very new
+9:29
+technology that we're all kind of
+9:30
+adjusting to so this was meant to be as
+9:33
+an experiment will these papers 100%
+9:35
+fully autonomous made by AI can they
+9:38
+pass the peer review process right at
+9:40
+least in theory so one of them in theory
+9:43
+seems like it would have passed it would
+9:45
+have been accepted had they they
+9:46
+continued with it it could have still
+9:47
+been rejected by the sort of meta review
+9:50
+but as you can see here it's doing
+9:53
+better than a lot of the human
+9:55
+scientists that have uh submitted their
+9:57
+papers now by the way the other papers
+9:59
+as you can see here so one received a
+10:01
+three a seven and a four the other one a
+10:03
+three a three a three so this is the
+10:06
+only one that that would have passed
+10:08
+although strangely this one has a very
+10:10
+wide range um of what the reviewers
+10:13
+thought of it so this is kind of a
+10:15
+landmark moment and it's the second one
+10:17
+for this company so as they're saying
+10:18
+the original AI scientist sort of
+10:20
+version 1.0 represented the first time
+10:22
+keep in mind that was back in August of
+10:24
+2024 not that long ago that was the
+10:27
+first time that AI generated entire
+10:29
+scientific manuscripts and then now to
+10:32
+their knowledge to our knowledge this is
+10:34
+the first time a fully AI generated
+10:36
+paper was good enough to pass a standard
+10:38
+scientific peer-review process like the
+10:40
+one described and of course this is kind
+10:42
+of a powerful statement they're saying
+10:44
+we as a community need to develop norms
+10:46
+regarding AI generated science including
+10:49
+when and how to declare that a paper is
+10:50
+fully or partially AI generated and at
+10:53
+what point in the process this I can
+10:55
+already sense is kind of going to be a
+10:58
+big deal there already people on both
+11:00
+sides of the issues with very strong
+11:03
+opinions you may recall when Sam Alman
+11:04
+posted a little sort of a short story
+11:07
+that was supposed to be metafiction
+11:08
+where an AI kind of describes how it
+11:10
+comes up with metaphictional short
+11:13
+stories i thought that the writing was
+11:14
+quite good like surprisingly good tons
+11:17
+of people commented on Sam Alman's post
+11:20
+and the video that I did about it and
+11:22
+some percentage of them said something
+11:24
+along the lines of because it was AI
+11:26
+generated therefore it's meaningless and
+11:30
+a lot of them described in different
+11:31
+ways they said that there's no meaning
+11:33
+to it that it that there's no weight to
+11:35
+it another person in in the video that I
+11:37
+did in the comments said that human
+11:39
+written writing has something like some
+11:41
+sort of a deeper signals towards that
+11:44
+kind of link of the person's experience
+11:46
+to the writing i don't know if that's
+11:47
+supposed to be like a lit like literally
+11:49
+like the words are somehow different or
+11:51
+it's more like a figurative expression i
+11:53
+I don't fully understand what people
+11:56
+mean by that and I try to but you know
+11:59
+whether it's AI music or or or AI art
+12:02
+quote unquote art or AI text we can have
+12:04
+our opinions about it right so I might
+12:07
+like images generated by AI or music
+12:09
+generated by AI somebody might say I
+12:12
+don't want to have anything to do with
+12:13
+it I'd rather listen to only human
+12:16
+generated music right that's an opinion
+12:18
+and everybody's of course welcome to
+12:20
+have their own preferences etc but it
+12:22
+does seem seem like there's a lot of
+12:23
+people that think that the pixels
+12:25
+generated like the words generated by
+12:28
+large language models are fundamentally
+12:32
+missing something as in if they read
+12:34
+something without realizing that it's
+12:36
+written by a machine they might say oh
+12:38
+this is a good piece of writing and you
+12:40
+tell them oh you know you know GPT4
+12:42
+wrote it they're like oh then it's bad
+12:44
+right so as if something changes
+12:46
+depending on where it originated from as
+12:49
+far as I can tell there's some
+12:50
+percentage of people that genuinely
+12:52
+believe that now I'm not saying whether
+12:54
+they're right or wrong i'm not here to
+12:55
+just kind of push my opinion i'm saying
+12:57
+you know how sometimes if you're asked
+12:59
+to play devil's advocate to sort of
+13:02
+argue for a position that maybe you
+13:03
+don't agree with right that's an
+13:05
+interesting thought exercise if there's
+13:07
+something that you really passionately
+13:08
+feel strongly about can you argue the
+13:12
+counterposition effectively i try to do
+13:14
+that because I think it helps really
+13:15
+understand what the other person's
+13:17
+thinking here i don't think I could do
+13:19
+that because I don't fully understand it
+13:21
+right as they're saying here there's
+13:23
+going to be difficult questions about
+13:25
+whether the science should be judged on
+13:27
+its own merits first to avoid bias
+13:31
+against it meaning that in the future at
+13:33
+some point these AI systems will be
+13:35
+capable of producing great contributions
+13:37
+to science if those papers are submitted
+13:40
+with you know human names human authors
+13:42
+on them people might recognize the merit
+13:45
+and say "This is a great paper let's
+13:48
+sort of add it to our you know to
+13:50
+humanity's scientific understanding
+13:52
+however if it says that the large
+13:54
+language model sort of developed this
+13:56
+hypothesis and then tested etc it might
+13:58
+be dismissed as AI slop people might
+14:01
+just somehow perceive it as lower
+14:03
+quality not because it's technically
+14:05
+wrong or it uh failed some reasoning or
+14:08
+something like that just simply because
+14:10
+of how it originated so at the workshop
+14:13
+they did notify the reviewers that if
+14:15
+they prefer not to review AI papers they
+14:18
+should let let them know so they're kind
+14:20
+of withdrawn from that i'd be very
+14:22
+curious to know number one are there
+14:25
+people that would kind of strongly
+14:26
+object to reviewing something done by a
+14:29
+computer versus a human and it would
+14:31
+also be very interesting to know if some
+14:33
+of the reviewers if there's some sort of
+14:35
+statistical discrepancies and how they
+14:37
+judged papers maybe because they were
+14:39
+kind of on a on the lookout for some AI
+14:42
+slop so to speak right maybe one of the
+14:44
+human writers used the word delve uh one
+14:47
+too many times and maybe a reviewer was
+14:50
+like I'm going to downgrade this cuz
+14:51
+this is obviously written by a large
+14:53
+language model like it would be curious
+14:55
+to see if things like that happen i'm
+14:57
+not saying they do but it would be
+14:59
+interesting to kind of quantify if there
+15:00
+is an anti- AAI bias so to speak so
+15:03
+again six months ago this was open
+15:05
+source this was released AI scientist
+15:07
+1.0 right so it comes up with a lot of
+15:09
+like ideas for experiments for
+15:11
+hypothesis does a novelty check to make
+15:13
+sure that it's not replicating some work
+15:15
+already being done and in my experience
+15:17
+large language models just out of the
+15:19
+box are exceptionally good at that
+15:20
+brainstorming they're phenomenal and
+15:23
+there's been a number of studies that
+15:24
+can confirm that they're far better than
+15:26
+humans at just rapidly coming up with a
+15:28
+lot of good ideas so if you're thinking
+15:29
+about just a brainstorming this is
+15:31
+something that they're just exceptional
+15:32
+at novelty checks again with the right
+15:34
+sort of uh database where they retrieve
+15:37
+it and read it I I would guess they
+15:38
+would be very good at that because it's
+15:40
+not a you know kind of control F where
+15:42
+you just search okay is this word
+15:44
+included they're able to kind of
+15:45
+understand the the topics the semantics
+15:47
+to see is this paper similar to this
+15:50
+paper etc then it goes through and
+15:52
+scores the various ideas it takes the
+15:54
+best ones maybe you know archives the
+15:56
+ones that didn't score quite as high
+15:58
+this interestingly the large language
+16:00
+models can be kind of poor at you have
+16:02
+to think about how to structure their
+16:05
+approach to how you score papers in my
+16:07
+experience if you just say oh score this
+16:08
+on 1 to 10 it might not do very well at
+16:11
+that however granularly breaking down
+16:13
+like give it plus one point if it has
+16:15
+this give it plus one point if it has
+16:17
+this kind of like breaking it down like
+16:19
+that iteratively tends to work very well
+16:22
+then it comes up with the experiment
+16:23
+template creates the code experiment
+16:25
+execution script right does the
+16:27
+experiments updates the various plans
+16:29
+then takes the data does the numerical
+16:31
+data plots etc writes up the actual
+16:34
+manuscript of what it found and then
+16:36
+eventually submits the LM for paper
+16:38
+reviewing which by the way that's part
+16:40
+of the AI process it's it also reviews
+16:42
+the paper so part of the this work is to
+16:45
+develop an automated LLM powered
+16:47
+reviewer capable of evaluating generated
+16:49
+papers with near human accuracy so if
+16:52
+you're wondering how they sort of how
+16:54
+they found those particular papers to
+16:56
+submit for peer review probably there
+16:59
+was some sort of an automated AI
+17:01
+reviewership going on these were
+17:02
+probably some of the better ranked
+17:03
+papers i'm just guessing i'm not I don't
+17:05
+know if that's true or not but it would
+17:07
+not surprise me but let me know what you
+17:08
+think number one do you think this is a
+17:11
+big deal do you think this is kind of a
+17:12
+big milestone that we just passed do you
+17:15
+think this is kind of like that first
+17:16
+step on our way to potentially an
+17:19
+intelligence explosion is this kind of
+17:21
+like the early sort of prototype of
+17:24
+automated AI research agents and also do
+17:27
+you think there's going to be AI bias
+17:29
+against these uh AI papers that are
+17:32
+fully done by AI scientists let's say
+17:34
+we're able to establish that sort of on
+17:37
+average the AI papers contain the the
+17:40
+exact same amount of mistakes that that
+17:42
+humor papers do right so the quality is
+17:44
+on average the same it's not like
+17:46
+they're doing far worse work just
+17:48
+hallucinating a bunch of things let's
+17:50
+say that they're they're about the same
+17:51
+is it rational to have a bias against AI
+17:54
+produced science versus human produced
+17:57
+science is it moral or ethical to have
+18:00
+these papers be submitted for them to be
+18:02
+accepted into sort of our body of of
+18:05
+work of scientific discovery let me know
+18:06
+what you think in the comments for me I
+18:08
+just want to say big congratulations to
+18:10
+Sakana AI for their work so they're
+18:12
+building a world-class AI research lab
+18:14
+in Tokyo they're not only doing great
+18:16
+work they're also asking a lot of the
+18:19
+right questions they're doing it right
+18:21
+they're going through the right channels
+18:22
+they're submitting the paperwork they're
+18:24
+informing the people that they're going
+18:25
+to be reviewing AI made papers right and
+18:29
+uh as far as I know this is their first
+18:30
+attempt and on their first attempt one
+18:33
+of the papers manages to to pass the
+18:36
+guidelines to be accepted by which point
+18:38
+they withdraw the paper right to kind of
+18:40
+not muddy the waters right so it was
+18:42
+just an experiment that they ran so
+18:44
+brilliantly done well executed just
+18:46
+across the board very very exciting and
+18:49
+not to mention they're opensourcing
+18:51
+these projects they're as they say
+18:53
+they're democratizing AI in Japan that's
+18:56
+their goal but in doing so it will also
+18:58
+be available to the entire world and I'm
+19:00
+sure AI meaningfully contributing to
+19:02
+science to human knowledge is something
+19:04
+that's going to be a benefit to everyone
+19:07
+that's something that everyone will be
+19:08
+happy about well maybe not one person
+19:11
+not your contribut he might not be happy
+19:13
+about this i'm going to post about this
+19:14
+i'm going to tag him in it i can't wait
+19:16
+to hear what his take is if you made it
+19:18
+this far thank you so much for watching
+19:20
+my name is Wes Roth and I'll see you
+19:22
+next
